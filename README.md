@@ -3,5 +3,7 @@ its an interactive Power BI dashboard provides the deep insights of Product Sale
 and also total sales in month & sales by category and sum of Top % products
 # Data overview
 https://github.com/sohail7784/Product-sales-Performance-Dashboard/blob/main/Sales_Data.xlsx
-# Data Dashboard
+# Dashboard File
 https://github.com/sohail7784/Product-sales-Performance-Dashboard/blob/main/product%20performance.pbix
+# Dashboard Overview(image)
+https://github.com/sohail7784/Product-sales-Performance-Dashboard/blob/main/Screenshot%202025-05-30%20231520.png
